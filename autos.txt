@@ -1,0 +1,10 @@
+Auto:-:-16776961:-:Toyota:-:WTM-IQ-7:-:125
+Auto:-:-16776961:-:Audi:-:B-JD-201:-:110
+Auto:-:-65536:-:Audi:-:A-JD-201:-:180
+Auto:-:-16711936:-:Audi:-:A-FH-201:-:180
+Auto:-:-16776961:-:Audi:-:A-SD-201:-:55
+Auto:-:-16776961:-:Toyota:-:FH-DQ-7:-:100
+Auto:-:-16776961:-:Seat:-:SB-OA-7:-:100
+Auto:-:-16776961:-:Mitsubischi:-:HF-DM-7:-:115
+Auto:-:-16776961:-:Ford:-:KA-KA-7:-:130
+Auto:-:-16776961:-:Ford:-:WM-BE-7:-:115
